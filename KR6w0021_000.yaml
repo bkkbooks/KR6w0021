@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6w0021/d/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: □者眷屬
+  edition:
+    short: d
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D21/D21n8871.xml
+    old_id: D21n8871
+hash: sha256:91069465dc70ec5601e8c87eb8b80ba1ff37fc02911ba742ad83b41ebdc6f45a

@@ -1,0 +1,478 @@
+canonical_identifier: bkk:krp/KR6w0021/D/v1
+canonical_location: https://kanripo.org/bkk/KR6w0021/D/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: □者眷屬
+  identifiers:
+    krp: KR6w0021
+    cbeta: D21n8871
+    cbeta_old_id: D21n8871
+    authorityid: CA0008020
+    json_key: D8871
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D21/D21n8871.xml
+    old_id: D21n8871
+  edition:
+    short: D
+assets:
+  parts:
+  - {seq: 0, filename: KR6w0021_000-D.yaml, hash: 'sha256:91069465dc70ec5601e8c87eb8b80ba1ff37fc02911ba742ad83b41ebdc6f45a'}
+  - {seq: 1, filename: KR6w0021_001-D.yaml, hash: 'sha256:c646283afc0f1a37a53242a95b110457374c19a527aa514e87e2029e239651f6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6w0021_000-D.markers.yaml, hash: 'sha256:63887836c1a754b81b4ca6e3d6ee3432225cf2fa3ff7c65b194041748954aa83'}
+  - {seq: 1, role: markers, filename: assets/KR6w0021_001-D.markers.yaml, hash: 'sha256:53e27a884907f4667d2fe1bc2b670191ec6c09ef2923a7d8462f848331da5628'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-juan-start
+    span:
+    - body
+    - 0
+    - 4863
+  label: 者眷属
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 八大童子
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-2
+    span:
+    - body
+    - 5
+    - 5
+  label: 名號
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-3
+    span:
+    - body
+    - 116
+    - 116
+  label: 出生八童子
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-4
+    span:
+    - body
+    - 465
+    - 465
+  label: 󷒜當四智四波羅蜜
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-5
+    span:
+    - body
+    - 756
+    - 756
+  label: 各別印真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-6
+    span:
+    - body
+    - 1100
+    - 1100
+  label: 形像
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-7
+    span:
+    - body
+    - 1474
+    - 1474
+  label: 四使者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-8
+    span:
+    - body
+    - 1478
+    - 1478
+  label: 一俱力迦羅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-9
+    span:
+    - body
+    - 1483
+    - 1483
+  label: 名号
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-10
+    span:
+    - body
+    - 1506
+    - 1506
+  label: 本身
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-11
+    span:
+    - body
+    - 1555
+    - 1555
+  label: 種子
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-12
+    span:
+    - body
+    - 1712
+    - 1712
+  label: 三形
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-13
+    span:
+    - body
+    - 1716
+    - 1716
+  label: 形像
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-14
+    span:
+    - body
+    - 1718
+    - 1718
+  label: 虵形
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-15
+    span:
+    - body
+    - 1893
+    - 1893
+  label: 人形
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-16
+    span:
+    - body
+    - 2038
+    - 2038
+  label: 印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-17
+    span:
+    - body
+    - 2739
+    - 2739
+  label: 悲願
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-18
+    span:
+    - body
+    - 2741
+    - 2741
+  label: 消除病患
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-19
+    span:
+    - body
+    - 2788
+    - 2788
+  label: 消除󷑮病
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-20
+    span:
+    - body
+    - 2951
+    - 2951
+  label: 駈使行者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-21
+    span:
+    - body
+    - 3066
+    - 3066
+  label: 二制吒迦使者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-22
+    span:
+    - body
+    - 3072
+    - 3072
+  label: 名号
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-23
+    span:
+    - body
+    - 3115
+    - 3115
+  label: 壇埸㽵嚴
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-24
+    span:
+    - body
+    - 3174
+    - 3174
+  label: 種子
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-25
+    span:
+    - body
+    - 3177
+    - 3177
+  label: 三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-26
+    span:
+    - body
+    - 3178
+    - 3178
+  label: 形像
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-27
+    span:
+    - body
+    - 3224
+    - 3224
+  label: 言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-28
+    span:
+    - body
+    - 3270
+    - 3270
+  label: 真言印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-29
+    span:
+    - body
+    - 3434
+    - 3434
+  label: 三矝羯羅使者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-30
+    span:
+    - body
+    - 3440
+    - 3440
+  label: 名号
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-31
+    span:
+    - body
+    - 3481
+    - 3481
+  label: 道場㽵嚴(如制吒迦)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-32
+    span:
+    - body
+    - 3489
+    - 3489
+  label: 種子
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-33
+    span:
+    - body
+    - 3492
+    - 3492
+  label: 三形
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-34
+    span:
+    - body
+    - 3494
+    - 3494
+  label: 形像
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-35
+    span:
+    - body
+    - 3737
+    - 3737
+  label: 真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-36
+    span:
+    - body
+    - 3871
+    - 3871
+  label: 印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-37
+    span:
+    - body
+    - 4069
+    - 4069
+  label: 駈使行者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-38
+    span:
+    - body
+    - 4369
+    - 4369
+  label: 本身
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-39
+    span:
+    - body
+    - 4444
+    - 4444
+  label: 四蓮花吉祥
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-40
+    span:
+    - body
+    - 4449
+    - 4449
+  label: 種子
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-41
+    span:
+    - body
+    - 4454
+    - 4454
+  label: 三形
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-42
+    span:
+    - body
+    - 4469
+    - 4469
+  label: 形像
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-43
+    span:
+    - body
+    - 4530
+    - 4530
+  label: 印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0021_D_001-mulu-44
+    span:
+    - body
+    - 4745
+    - 4745
+  label: 滿行者願
+  type: mulu
+  level: 1
+hash: sha256:4642b4ea12fb552b4bed0286c1e686b34ea4e5a55023a5aa4ae13960a6b490e2
